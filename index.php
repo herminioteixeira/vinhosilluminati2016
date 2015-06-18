@@ -1,21 +1,25 @@
-
-<h1 align="center"> VINHOS ILLUMINATIS</h1>
-
-<body>  <body bgcolor="gray">
 <html>
-<head>
+    <head>
+        <title></title>
+        <meta charset=UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <script type="text/javascript" src="js/libs/jquery/jquery.js"></script>
+        <script type="text/javascript" src="js/libs/jqueryui/jquery-ui.js"></script>
+    </head>
+    <body><body bgcolor="gray">
+        <Div  class = ".container-fluid" >               
+            <h1 align="center"> VINHOS ILLUMINATI</h1>
 
-<br />
+        </Div>
 
-<h4>VINHOS</h4>
-<ul>
-
-<li>Nacionais</li>
-<li>Importados</li>
-<li>Ofertas</li>
-<li>espumantes</li>
-</ul>
-<br />
-
-
+    </body> 
+    <div class="jumbotron" style="background-color: #269abc">
+        <h4><button class="btn btn-default" type="submit">MENU VINHOS</button></h4> 
+        <h4><button class="btn btn-default" type="submit">Ofertas</button></h4>
+        <h4><button class="btn btn-default" type="submit">Nacionais</button></h4>
+        <h4><button class="btn btn-default" type="submit">Importados</button></h4>
+        <h4><button class="btn btn-default" type="submit">Espumantes</button></h4>
+        
+    
+</div>
 </html>
